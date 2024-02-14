@@ -1,0 +1,3 @@
+Apa itu merge conflict dan cara menanggulanginya?
+
+Merge conflict adalah suatu kasus ketika dua branch melakukan perubahan pada baris yang sama dalam satu repository sehingga tidak dapat dilakukan merge. Cara mengatasi merge conflict adalah dengan memperbaiki atau menyelesaikan konfliknya, dimana kita dapat memilih perubahan pada branch mana yang kita inginkan dan menghapus perubahan pada branch lainnya sehingga tidak terdapat lagi dua perubahan yang berbeda pasa baris yang sama.
